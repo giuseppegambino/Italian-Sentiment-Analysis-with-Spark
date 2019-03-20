@@ -21,7 +21,7 @@ The technologies used are:
 The project consists of 4 python pages of code:    
   - tweetSave.py to collect the tweet, is set to collect italian tweet with music keyword    
   - tweetClean.py to clean and pre-process the data    
-  - tweetSentiment.py to label the tweet with positive, negative or neutral sentiment    
+  - tweetSentimentRadici.py to label the tweet with positive, negative or neutral sentiment    
   - tweetSpark.py to apply the machine learning tools (RUNS ON SPARK)  
   
 Write me if you have doubts or to improve the solution.
