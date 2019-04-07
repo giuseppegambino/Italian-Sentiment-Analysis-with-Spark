@@ -2,7 +2,7 @@
 This is the project for my thesis in Computer Science done at University of Palermo under the supervision 
 of the professor Roberto Pirrone.  
 
-The main object was to build a data analysis pipeline with technologies related to Big Data:
+The goal was to build a data analysis pipeline with technologies related to Big Data:
   - Data collection    
   - Data pre-processing    
   - Data labeling    
